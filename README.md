@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+NOBI+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
- ━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━
 
 ## 🏷 Environment Variables
   - `API_ID` - Your Telegram API ID.
