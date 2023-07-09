@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+NOBI+DEVELOPER!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
- ━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━
 
 ## 🏷 Environment Variables
   - `API_ID` - Your Telegram API ID.
@@ -88,7 +88,9 @@ python3 bot.py
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/BotszSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
+## 📌 Note
 
+Just Fork the repo and edit as per your needs.
 
 
 
