@@ -1,4 +1,3 @@
-
 <h2 align="center">
   ─「 ʀᴇɴᴀᴍᴇ  ʙᴏᴛ 」─
 </h2>
@@ -80,8 +79,7 @@ python3 bot.py
 </p>
 </details>
 
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
+<h3> ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
 - <b>[ɴᴏʙɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://github.com/NobiDeveloper)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://youtube.com/@NobiDeveloper) </b>
@@ -91,5 +89,3 @@ python3 bot.py
 ## 📌  𝑵𝒐𝒕𝒆
 
 ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
-
-
