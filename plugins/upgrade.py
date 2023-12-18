@@ -43,7 +43,7 @@ async def upgrade(bot,update):
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/BotszSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/NobiDeveloperSupport'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
@@ -93,7 +93,7 @@ async def upgradecm(bot,message):
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/BotszSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/NobiDeveloperSupport'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
