@@ -37,13 +37,13 @@ async def upgrade(bot,update):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/NobiDeveloperr')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/CodeXBro')
             ],
                     [
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/NobiDeveloperSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/CodeXSupport'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
@@ -87,13 +87,13 @@ async def upgradecm(bot,message):
 	keybord = InlineKeyboardMarkup(
                 [
                     [
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/NobiDeveloperr')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛᴏ  ᴏᴡɴᴇʀ  ❣️',url='https://telegram.me/CodeXBro')
             ],
                     [
             InlineKeyboardButton('ʙᴜʏ   ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ   😊',url='https://telegra.ph/SUPPORT-12-22-2')
             ],
                     [
-                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/NobiDeveloperSupport'),
+                        InlineKeyboardButton('🔮  ʜᴇʟᴘ',url='https://telegram.me/CodeXSupport'),
                         InlineKeyboardButton("🏠   ʜᴏᴍᴇ", callback_data = "cancel")
                     ]
                 ]
