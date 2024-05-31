@@ -4,7 +4,7 @@ import asyncio
 from pyrogram import Client ,filters
 from helper.database import getid ,delete
 import time
-ADMIN = int(os.environ.get("ADMIN", 923943045))
+ADMIN = int(os.environ.get("ADMIN"))
  
 
 @Client.on_message(filters.private & filters.user(ADMIN) & filters.command(["broadcast"]))
