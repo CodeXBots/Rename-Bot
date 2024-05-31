@@ -79,5 +79,5 @@ async def dft(bot,update):
 	usertype(int(user_id),"Free")
 	addpre(int(user_id))
 	await update.message.edit("ᴜꜱᴇʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.")
-	await bot.send_message(user_id,"ʏᴏᴜʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.\n\nᴄᴏɴᴛᴀᴄᴛ  <a href='https://telegram.dog/NobiDeveloperr'>**ᴏᴡɴᴇʀ**</a>  ꜰᴏʀ  ᴍᴏʀᴇ  ᴅᴇᴛᴀɪʟꜱ.")
+	await bot.send_message(user_id,"ʏᴏᴜʀ  ʟɪᴍɪᴛ  ʜᴀꜱ  ʙᴇᴇɴ  ʀᴇꜱᴇᴛ  ꜱᴜᴄᴄᴇꜱꜱꜱꜰᴜʟʟʏ.\n\nᴄᴏɴᴛᴀᴄᴛ  <a href='https://telegram.dog/CodeXBro'>**ᴏᴡɴᴇʀ**</a>  ꜰᴏʀ  ᴍᴏʀᴇ  ᴅᴇᴛᴀɪʟꜱ.")
 
