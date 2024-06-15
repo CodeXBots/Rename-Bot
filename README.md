@@ -45,7 +45,7 @@
 </h3>
 
 <p align="center"><a href="https://github.com/CodeXBots/Rename-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+  <img src="https://www.heroku.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
