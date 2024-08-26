@@ -1,23 +1,17 @@
-import asyncio
-from pyrogram import Client, compose,idle
-import os
-
+from pyrogram import Client, idle
 from plugins.cb_data import app as Client2
+from config import *
+import pyrogram.utils
 
-TOKEN = os.environ.get("TOKEN", "")
+pyrogram.utils.MIN_CHANNEL_ID = -1009147483647
 
-API_ID = int(os.environ.get("API_ID", ""))
-
-API_HASH = os.environ.get("API_HASH", "")
-
-STRING = os.environ.get("STRING", "")
 
 
 bot = Client(
 
            "Renamer",
 
-           bot_token=TOKEN,
+           bot_token=BOT_TOKEN,
 
            api_id=API_ID,
 
