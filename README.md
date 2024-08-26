@@ -8,33 +8,73 @@
 
  ━━━━━━━━━━━━━━━━━
 
-## 🏷 Environment Variables
-  - `API_ID` - Your Telegram API ID.
-  - `API_HASH` - Your Telegram API HASH.
-  - `TOKEN` - Get it from BotFather.
-  - `ADMIN` - Your ID
-  - `STRING` - Only Need for 4gb Files.
-  - `DB_URL` - Enter Mongodb database URL
-  - `DB_NAME` - Enter Mongodb database URL Name
-  - `CHANNEL` - Force subscribe channel username without `@`
-  - `LOG_CHANNEL` - Log Channel ID.
+### 🥰 FEATURES
 
-## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
-```
-• /start - ᴛᴏ ꜱᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ
-• /about - ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ ᴅᴇᴛᴀɪʟꜱ
-• /refer - ᴛᴏ ɪɴᴄʀᴇᴀꜱᴇ ʏᴏᴜʀ ᴘʟᴀɴ
-• /myplan - ᴛᴏ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʟᴀɴꜱ ᴅᴇᴛᴀɪʟꜱ
-• /upgrade - ᴛᴏ ᴜᴘɢʀᴀᴅᴇ ʏᴏᴜʀ ᴘʟᴀɴ
-• /viewthumb - ᴛᴏ ᴠɪᴇᴡ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ
-• /delthumb - ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ
-• /set_caption - ᴛᴏ ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ
-• /del_caption - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴄᴀᴘᴛɪᴏɴ
-• /see_caption - ᴛᴏ ᴄʜᴇᴄᴋ ᴄᴜʀʀᴇɴᴛ ᴄᴀᴘᴛɪᴏɴ
-• /broadcast - ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ ᴛᴏ ᴀʟʟ ᴜꜱᴇʀꜱ
-• /addpremium - ᴛᴏ ᴀᴅᴅ ᴘʀᴇᴍɪᴜᴍ ᴜꜱᴇʀꜱ
-• /resetpower - ᴛᴏ ʀᴇꜱᴇᴛ ᴜꜱᴇʀ ᴘʀᴇᴍɪᴜᴍ
-```
+ - Renames very fast .
+ - Support 4Gb Rename With Upgrade Plan .
+ - Permanent Thumbnail support.
+ - Supports Broadcasts.
+ - Set custom caption.
+ - Has a custom Start-up pic.
+ - Force subscribe available.
+ - Supports ulimited renaming at a time.
+ - Deploy to Koyeb + Heroku + Railway + Render.
+ - Developer Service 24x7.
+
+
+### 🔥 ALL VARIABLES
+
+* `BOT_TOKEN` - Get bot token from <a href="https://telegram.me/BotFather" target="/blank">Bot Father</a>
+* `API_ID` - Get API ID from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
+* `API_HASH` - Get API HASH from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
+* `OWNER` - Bot admin/owner user id.
+* `DB_URL` - Mongo Database URL from <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
+* `DB_NAME`  - Your database name from mongoDB.
+* `FORCE_SUBS` - Your force sub channel username `without @` (Optional)
+* `BOT_PIC` - Start message photo. (Optional)
+* `STRING` - If you want to rename 4GB+ files.
+* `BOT_USERNAME` - Add bot username `without @` (Optional)
+* `LOG_CHANNEL` - A channel to log the activities of bot. Make sure bot is an admin in the channel.
+
+
+### 😍 COMMANDS
+
+`/start` - Check if the bot is running.
+ 
+`/viewthumb` - To view current thumbnail.
+ 
+`/delthumb` - To delete current thumbnail.
+ 
+`/set_caption` - To set a custom caption.
+ 
+`/see_caption` - To see your custom caption.
+ 
+`/del_caption` - To delete custom caption.
+
+`/ping` - To Check Bot ping.
+ 
+`/myplan` - To view users current plan.
+
+`/donate` - To support developer.
+ 
+`/upgrade` - To view all plans with price list.
+
+`/users` - Use This Command To See Total Users [Admins Only].
+
+`/allids` - Use This Command To See All Users IDs list [Admins Only].
+ 
+`/broadcast` - Message Broadcast command [Admins Only].
+
+`/warn` - Use This Command To Send A Message To A User [Admins Only].
+ 
+`/ceasepower` - To Cease (downgrade) renaming capacity [Admins Only].
+ 
+`/resetpower` - To Reset renaming capacity (to default 2GB)  [Admins Only].
+ 
+`/addpremium` - To Upgrade user plan [Admins Only].
+
+`/restart` - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
+
 
 <details>
 <summary><h3>
