@@ -30,9 +30,9 @@
 * `DB_URL` - Mongo Database URL from <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
 * `DB_NAME`  - Your database name from mongoDB.
 * `FORCE_SUBS` - Your force sub channel username `without @` (Optional)
-* `BOT_PIC` - Start message photo. (Optional)
+* `BOT_PIC` - Start message photo.
 * `STRING` - If you want to rename 4GB+ files.
-* `BOT_USERNAME` - Add bot username `without @` (Optional)
+* `BOT_USERNAME` - Add bot username `without @`
 * `LOG_CHANNEL` - A channel to log the activities of bot. Make sure bot is an admin in the channel.
 
 
