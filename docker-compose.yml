@@ -4,9 +4,10 @@ services:
     build: .
     environment:
       - API_ID=${API_ID}
-      - API_HASH=${HASH}
-      - TOKEN=${TOKEN}
+      - API_HASH=${API_HASH}
+      - BOT_TOKEN=${BOT_TOKEN}
       - DB_NAME=${DB_NAME}
       - DB_URL=${DB_URL}
       - CHANNEL=${CHANNEL}
       - ADMIN=${ADMIN}
+      - BOT_PIC=${BOT_PIC}
