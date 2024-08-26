@@ -8,17 +8,16 @@ async def viewthumb(client,message):
 		if thumb :
 			await client.send_photo(message.chat.id,photo =f"{thumb}")
 		else:
-			await message.reply_text("**ʏᴏᴜ  ᴅᴏɴ'ᴛ  ʜᴀᴠᴇ  ᴀɴʏ  ᴄᴜꜱᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ**")
+			await message.reply_text("**You Don't Have Any Thumbnail ❌**")
 	
-	
+	 
 @Client.on_message(filters.private & filters.command(['delthumb']))
 async def removethumb(client,message):
 	delthumb(int(message.chat.id))
-	await message.reply_text("**ᴛʜᴜᴍʙɴᴀɪʟ  ᴅᴇʟᴇᴛᴇᴅ  ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ.**")
+	await message.reply_text("**Thumbnail Deleted Successfully 🗑️**")
 
 @Client.on_message(filters.private & filters.photo)
 async def addthumbs(client,message):
 	file_id = str(message.photo.file_id)
 	addthumb(message.chat.id , file_id)
-	await message.reply_text("**ᴛʜᴜᴍʙɴᴀɪʟ  ꜱᴀᴠᴇᴅ  ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ** ✅")
-	
+	await message.reply_text("**Thumbnail Saved Successfully ✅**")
