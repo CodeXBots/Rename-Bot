@@ -77,7 +77,7 @@
 
 <details>
 <summary><h3>
-- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
+<b> DEPLOYEMENT SUPPORT </b>
 </h3></summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
