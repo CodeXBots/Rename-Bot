@@ -6,7 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+CodeXBots!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
- ━━━━━━━━━━━━━━━━━
 
 ### 🥰 FEATURES
 
