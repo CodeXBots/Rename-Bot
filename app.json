@@ -3,29 +3,23 @@
 
     "name": "Rename Bot",
 
-    "description": "Telegram File Rename Bot 4GB ",
+    "description": "Rename Bot",
 
-    "keywords": [
-
-        "Renamer ",
-
-        "4GB File",
-
-        "telegram"
-
-    ],
+    "keywords": ["Premium Renamer Bot ", "4GB File", "telegram", "Rahul" ],
 
     "repository": "https://github.com/CodeXBots/Rename-Bot",
 
-    "success_url": "https://telegram.me/CodeXBro",
+    "success_url": "https://telegram.me/RahulReviewsYT",
 
     "env": {
 
-        "CHANNEL": {
+        "FORCE_SUBS": {
 
-            "description": "Channel or Group user Name With @",
+            "description" : "Channel or Group user Name Without @",
 
-            "required":true
+            "value" : "",
+
+            "required" : false
 
             
 
@@ -33,63 +27,100 @@
 
         "STRING": {
 
-            "description": "Use Pyrogram String Session",
+            "description" : "Pyrogram String Session",
 
-            "required": true
+            "value" : "",
+
+            "required" : false
 
         },
 
         "API_ID": {
 
-            "description": "Your APP ID From my.telegram.org ",
+            "description" : "Your APP ID From my.telegram.org ",
 
-            "required": true
+            "value" : "",
+
+            "required" : true
 
         },
 
         "API_HASH": {
 
-            "description": "Your API Hash From my.telegram.org ",
+            "description" : "Your API Hash From my.telegram.org ",
 
-            "required": true
+            "value" : "",
 
-        },
-
-        "TOKEN": {
-
-            "description": "Your Bot Token From @BotFather",
-
-            "required": true
+            "required" : true
 
         },
 
-        "ADMIN": {
+        "BOT_TOKEN": {
 
-            "description":"Add Your User ID",
+            "description" : "Your Bot Token From @BotFather",
 
-            "required": true
+            "value" : "",
+
+            "required" : true
+
+        },
+
+        "OWNER": {
+
+            "description" : "Add Your User ID",
+
+            "value" : "",
+
+            "required" : true
 
         },
 
         "DB_URL":{
 
-             "description":"Database Url Get It From Mongo DB"
+             "description" : "Database Url Get It From Mongo DB",
+
+             "value" : "",
+
+             "required" : true
+
 
         },
 
         "DB_NAME":{
 
-               "description":"Database Name ",
+               "description" : "Database Name ",
 
-               "required":true
+               "value" : "Rahul",
+
+               "required" : false
 
         },
 
         "LOG_CHANNEL":{
 
-             "description":"Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
+             "description" : "Channel Id Nedd Store Files Get Your channel id from Rose @MissRose_bot",
 
-             "required": true
+             "value" : "",
+
+             "required" : true
+
+        },
+        "BOT_PIC":{
+
+            "description" : "Start up pic of your bot. Get from telegraph_Bot",
+
+            "value" : "https://graph.org/file/ada3f739fed7efdbe7b08.jpg",
+
+            "required" : false
+
+       },
+        "BOT_USERNAME":{
+
+            "description" : "Add bot username without @",
+
+            "value" : "",
+
+            "required" : true
 
         }
 
