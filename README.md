@@ -93,16 +93,16 @@
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
 <h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Rename-Bot"">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
 </h3>
 <p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Rename-Bot">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
+</h3>
+<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Rename-Bot"">
+     <img height="45px" src="https://railway.app/button.svg">
 </a></p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
