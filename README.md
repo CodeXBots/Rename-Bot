@@ -70,11 +70,11 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 </details>
 
 
-
-<details><summary><b>  📶 DEPLOYEMENT</b></summary>
-<details><summary><h3 align="center">
+### 📶 DEPLOYEMENT
+<details><summary><b>📶 DEPLOYEMENT SUPPORT</b></summary>
+<h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3></summary></details>
+</h3>
 
 <p align="center"><a href="https://github.com/CodeXBots/Rename-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
