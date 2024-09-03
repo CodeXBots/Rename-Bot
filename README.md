@@ -23,17 +23,16 @@
 
 ### 🔥 ALL VARIABLES
 
-* `BOT_TOKEN` - Get bot token from <a href="https://telegram.me/BotFather" target="/blank">Bot Father</a>
-* `API_ID` - Get API ID from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
-* `API_HASH` - Get API HASH from <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
-* `OWNER` - Bot admin/owner user id.
-* `DB_URL` - Mongo Database URL from <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
-* `DB_NAME`  - Your database name from mongoDB.
-* `FORCE_SUBS` - Your force sub channel username `without @` (Optional)
-* `BOT_PIC` - Start message photo.
-* `STRING` - If you want to rename 4GB+ files.
-* `BOT_USERNAME` - Add bot username `without @`
-* `LOG_CHANNEL` - A channel to log the activities of bot. Make sure bot is an admin in the channel.
+<b>* `API_ID` - Get API ID From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
+* `API_HASH` - Get API HASH From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
+* `BOT_TOKEN` - Get BOT TOKEN From <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
+* `ADMIN` - Add Your User ID, If Multiple Is Use Space To Split
+* `LOG_CHANNEL` - Bot Logs Channel To Sending User Data & 4GB Premium Client To Use, Id Must Startswith -100 & Make Sure Bot Is Admin In This Channel
+* `DATABASE_URL` - Mongo Database URL From <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
+* `DATABASE_NAME`  - Your Mongo Database Name From Mongo DB (Optional)
+* `FORCE_SUBS` - Your Force Subscribe Channel Username Without @ (Optional)
+* `START_PIC` - Your Bot Start Command Pic (Optional)
+* `STRING_SESSION` - Premium 4GB Client Pyrogram v2 String Session(Optional).</b>
 
 
 ### 😍 COMMANDS
