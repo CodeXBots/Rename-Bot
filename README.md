@@ -9,8 +9,8 @@
 
 ### 🥰 FEATURES
 
- - Renames very fast .
- - Support 4Gb Rename With Upgrade Plan .
+ - Renames very fast.
+ - Support 4Gb Rename With Upgrade Plan.
  - Permanent Thumbnail support.
  - Supports Broadcasts.
  - Set custom caption.
@@ -23,7 +23,7 @@
 
 ### 🔥 ALL VARIABLES
 
-<b>* `API_ID` - Get API ID From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
+* `API_ID` - Get API ID From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
 * `API_HASH` - Get API HASH From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
 * `BOT_TOKEN` - Get BOT TOKEN From <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
 * `ADMIN` - Add Your User ID, If Multiple Is Use Space To Split
@@ -32,46 +32,42 @@
 * `DATABASE_NAME`  - Your Mongo Database Name From Mongo DB (Optional)
 * `FORCE_SUBS` - Your Force Subscribe Channel Username Without @ (Optional)
 * `START_PIC` - Your Bot Start Command Pic (Optional)
-* `STRING_SESSION` - Premium 4GB Client Pyrogram v2 String Session(Optional).</b>
+* `STRING_SESSION` - Premium 4GB Client Pyrogram v2 String Session(Optional).
 
 
 ### 😍 COMMANDS
 
-`/start` - Check if the bot is running.
- 
-`/viewthumb` - To view current thumbnail.
- 
-`/delthumb` - To delete current thumbnail.
- 
-`/set_caption` - To set a custom caption.
- 
-`/see_caption` - To see your custom caption.
- 
-`/del_caption` - To delete custom caption.
+<b><details><summary>Tap On Me For User Commands</summary>
 
-`/ping` - To Check Bot ping.
- 
-`/myplan` - To view users current plan.
+```
+start - Check If The Bot Is Running.
+viewthumb - To View Current Thumbnail.
+delthumb - To Delete Current Thumbnail.
+set_caption - To Set A Custom Caption.
+see_caption - To See Your Custom Caption.
+del_caption - To Delete Custom Caption.
+ping - To Check Bot Ping.
+myplan - To View User Current Plan.
+donate - To Support Developer.
+upgrade - To View All Plans With Price List.
+```
+</b>
+</details>
 
-`/donate` - To support developer.
- 
-`/upgrade` - To view all plans with price list.
+<b><details><summary>Tap On Me For Admin Commands</summary>
 
-`/users` - Use This Command To See Total Users [Admins Only].
-
-`/allids` - Use This Command To See All Users IDs list [Admins Only].
- 
-`/broadcast` - Message Broadcast command [Admins Only].
-
-`/warn` - Use This Command To Send A Message To A User [Admins Only].
- 
-`/ceasepower` - To Cease (downgrade) renaming capacity [Admins Only].
- 
-`/resetpower` - To Reset renaming capacity (to default 2GB)  [Admins Only].
- 
-`/addpremium` - To Upgrade user plan [Admins Only].
-
-`/restart` - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
+```
+users - Use This Command To See Total Users [Admins Only].
+allids - Use This Command To See All Users IDs List [Admins Only].
+broadcast - Message Broadcast Command [Admins Only].
+warn - Use This Command To Send A Message To A User [Admins Only].
+ceasepower - To Cease (Downgrade) Renaming Capacity [Admins Only].
+resetpower - To Reset Renaming Capacity (To Default 2GB) [Admins Only].
+addpremium - To Upgrade User Plan [Admins Only].
+restart - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
+```
+</b>
+</details>
 
 
 <details>
