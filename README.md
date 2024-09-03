@@ -71,7 +71,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot [Admins Onl
 
 
 ### 📶 DEPLOYEMENT
-<details><summary><b>📶 DEPLOYEMENT SUPPORT</b></summary>
+<details><summary><b>Click On me For Deploy</b></summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
