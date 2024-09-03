@@ -67,9 +67,7 @@ addpremium - To Upgrade User Plan [Admins Only].
 restart - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
 ```
 </b>
-</details>
-
-
+</details>\n\n\n
 
 
 
