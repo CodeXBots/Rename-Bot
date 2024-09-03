@@ -16,7 +16,7 @@ class script(object):
 <b>⦿ /viewthumb - Use This Command To See Your Thumbnail</b>
 <b>⦿ /delthumb - Use This Command To Delete Your Thumbnail</b>"""
 
-    ABOUT_TXT = """<b>🤖 My Name :</b> <a href='https://telegram.me/CodeXBro'>Rename Bot</a>
+    ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
 <b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
@@ -44,3 +44,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 <b>⦿ /ceasepower - Use This Command To Cease User Power</b>
 <b>⦿ /addpremium - Use This Command To Add Premium To Users</b>
 <b>⦿ /restart - Use This Command To Cancel All Process And Restart The Bot</b>"""
+
+    METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
+For Example :-
+<code>-map 0 -c:s copy -c:a copy -c:v copy -metadata title="Encoded By :- @RahulReviewsYT" -metadata author="@CodeXBro" -metadata:s:s title="Subtitled By :- @RahulReviewsYT" -metadata:s:a title="By :- @RahulReviewsYT" -metadata:s:v title="Encoded By :- @RahulReviewsYT"</code>
+💬 For Any Help Contact @CodeXSupport
+"""
