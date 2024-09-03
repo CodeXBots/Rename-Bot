@@ -47,6 +47,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>-map 0 -c:s copy -c:a copy -c:v copy -metadata title="Encoded By :- @RahulReviewsYT" -metadata author="@CodeXBro" -metadata:s:s title="Subtitled By :- @RahulReviewsYT" -metadata:s:a title="By :- @RahulReviewsYT" -metadata:s:v title="Encoded By :- @RahulReviewsYT"</code>
+<code>By @RahulReviewsYT</code>
 💬 For Any Help Contact @CodeXSupport
 """
