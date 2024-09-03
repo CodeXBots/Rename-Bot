@@ -67,14 +67,14 @@ addpremium - To Upgrade User Plan [Admins Only].
 restart - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
 ```
 </b>
-</details>\n\n\n
+</details>
 
 
 
 <details><summary><b>  📶 DEPLOYEMENT</b></summary>
-<h3 align="center">
+<details><summary><h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+</h3></summary></details>
 
 <p align="center"><a href="https://github.com/CodeXBots/Rename-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
