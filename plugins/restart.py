@@ -3,7 +3,9 @@ from config import *
 from pyrogram import filters, Client
 
 
-@Client.on_message(filters.command("restart") & filters.user(OWNER))
+
+
+@Client.on_message(filters.command("restart") & filters.user(ADMIN))
 async def stop_button(bot, message):
     msg = await bot.send_message(text="🔄 Processes Stoped. Bot Is Restarting...", chat_id=message.chat.id)       
     await asyncio.sleep(3)
