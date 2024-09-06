@@ -114,8 +114,8 @@ python3 bot.py
 <h3> ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴍᴀɴᴅɪᴘ](https://github.com/JishuDeveloper)  ➻  [ʀᴇᴘᴏ](https://github.com/JishuDeveloper)
-- [ʀᴀʜᴜʟ](https://github.com/CodeXBots)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://youtube.com/@RahulReviews)</b>
+- <b>[ᴍᴀɴᴅɪᴘ](https://github.com/JishuDeveloper)
+- [ʀᴀʜᴜʟ](https://github.com/CodeXBots)</b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/CodeXSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
