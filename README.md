@@ -1,16 +1,18 @@
-<h2 align="center">
-  ─「 ʀᴇɴᴀᴍᴇ  ʙᴏᴛ 」─
-</h2>
+<h1 align="center">
+ <b><a href="https://youtu.be/LMbASrirBHg" target="/blank">Auto-Filter-Bot</a>
+</h1>
 
+<p align="center">🩷 Thanks for Being Here 🩷</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=RENAME+BOT+!;CREATED+BY+CodeXBots!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
-</p>
 
 
 ### 🥰 FEATURES
 
+<details><summary>Tap On Me For Bot Features</summary>
+
  - Renames very fast.
- - Support 4Gb Rename With Upgrade Plan.
+ - Support 4Gb Rename.
+ - Premium plan feature.
  - Permanent Thumbnail support.
  - Supports Broadcasts.
  - Set custom caption.
@@ -19,21 +21,25 @@
  - Supports ulimited renaming at a time.
  - Deploy to Koyeb + Heroku + Railway + Render.
  - Developer Service 24x7.
+</details>
 
 
-### 🔥 ALL VARIABLES
+### 🔥 VARIABLES
 
-* `API_ID` - Get API ID From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a> 
-* `API_HASH` - Get API HASH From <a href="https://my.telegram.org" target="/blank">Telegram Auth</a>
-* `BOT_TOKEN` - Get BOT TOKEN From <a href="https://t.me/BotFather" target="/blank">Bot Father</a>
+<details><summary>Tap On Me For Environment Variable</summary>
+
+* `API_ID` - Get API ID From <a href="https://youtu.be/RdMY6Lqfi9w" target="/blank">Telegram Auth</a> 
+* `API_HASH` - Get API HASH From <a href="https://youtu.be/RdMY6Lqfi9w" target="/blank">Telegram Auth</a>
+* `BOT_TOKEN` - Get BOT TOKEN From <a href=https://youtu.be/aJILCCXfNVM" target="/blank">Bot Father</a>
 * `ADMIN` - Add Your User ID, If Multiple Is Use Space To Split
 * `LOG_CHANNEL` - Bot Logs Channel To Sending User Data & 4GB Premium Client To Use, Id Must Startswith -100 & Make Sure Bot Is Admin In This Channel
-* `DATABASE_URL` - Mongo Database URL From <a href="https://cloud.mongodb.com" target="/blank">Mongo DB</a>
+* `DATABASE_URL` - Mongo Database URL From <a href="https://youtu.be/pMJpHoiu1go" target="/blank">Mongo DB</a>
 * `DATABASE_NAME`  - Your Mongo Database Name From Mongo DB (Optional)
 * `FORCE_SUBS` - Your Force Subscribe Channel Username Without @ (Optional)
 * `START_PIC` - Your Bot Start Command Pic (Optional)
 * `STRING_SESSION` - Premium 4GB Client Pyrogram v2 String Session(Optional).
-
+</details>
+</b>
 
 ### 😍 COMMANDS
 
@@ -57,21 +63,21 @@ upgrade - To View All Plans With Price List.
 <b><details><summary>Tap On Me For Admin Commands</summary>
 
 ```
-users - Use This Command To See Total Users [Admins Only].
-allids - Use This Command To See All Users IDs List [Admins Only].
-broadcast - Message Broadcast Command [Admins Only].
-warn - Use This Command To Send A Message To A User [Admins Only].
-ceasepower - To Cease (Downgrade) Renaming Capacity [Admins Only].
-resetpower - To Reset Renaming Capacity (To Default 2GB) [Admins Only].
-addpremium - To Upgrade User Plan [Admins Only].
-restart - Use This Command To Cancel All Process And Restart The Bot [Admins Only].
+users - Use This Command To See Total Users.
+allids - Use This Command To See All Users IDs List.
+broadcast - Message Broadcast Command.
+warn - Use This Command To Send A Message To A User.
+ceasepower - To Cease (Downgrade) Renaming Capacity.
+resetpower - To Reset Renaming Capacity (To Default 2GB).
+addpremium - To Upgrade User Plan.
+restart - Use This Command To Cancel All Process And Restart The Bot.
 ```
 </b>
 </details>
 
-
 ### 📶 DEPLOYEMENT
-<details><summary><b>Click On me For Deploy</b></summary>
+<details>
+<summary><b>Tap On Me For Deply</summary>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
@@ -111,14 +117,27 @@ python3 bot.py
 </p>
 </details>
 
-<h3> ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
 
-- <b>[ᴍᴀɴᴅɪᴘ](https://github.com/JishuDeveloper)
-- [ʀᴀʜᴜʟ](https://github.com/CodeXBots)</b>
- 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/CodeXSupport) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
+### 🥳 CREDIT
 
-## 📌  𝑵𝒐𝒕𝒆
+<details><summary>Tap On Me For Credit</summary>
 
-ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.
+
+💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots)
+
+💘 Base Repo Credit [Jishu](https://github.com/JishuDeveloper)
+
+💖 And Thank You So Much To All Who Help In This Journey.
+</details>
+
+### 💕 CONTACT DEVELOPER
+
+- [Rahul](https://telegram.me/CodeXBro)
+
+### ☕ BUY ME A COFFEE
+- [PayPal](https://paypal.me/RahulReviews)
+- [UPI](https://codexbots.github.io/Donate)
+
+### 📌 NOTE
+
+ᴊᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ᴇᴅɪᴛ ᴀꜱ ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅꜱ.</b>
