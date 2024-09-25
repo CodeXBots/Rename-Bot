@@ -78,16 +78,12 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 ### 📶 DEPLOYEMENT
 <details>
 <summary><b>Tap On Me For Deply</summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
+
 
 <p align="center"><a href="https://github.com/CodeXBots/Rename-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
 </a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
+
 <p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Rename-Bot&branch=main&name=Rename-Bot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
 </a></p>
