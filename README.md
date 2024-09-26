@@ -57,6 +57,7 @@ del_caption - To Delete Custom Caption.
 ping - To Check Bot Ping.
 myplan - To View User Current Plan.
 donate - To Support Developer.
+metadata - To set metadata
 upgrade - To View All Plans With Price List.
 ```
 </b>
