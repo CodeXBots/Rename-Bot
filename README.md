@@ -80,7 +80,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 
 ### 📶 DEPLOYEMENT
 <details>
-<summary><b>Tap On Me For Deply</summary>
+<summary><b>Tap On Me For Deploy</summary>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
