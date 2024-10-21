@@ -22,7 +22,7 @@
  - Force subscribe available.
  - Supports ulimited renaming at a time.
  - Deploy to Koyeb + Heroku + Railway + Render.
- - Developer Service 24x7.
+ - [Developer support](https://telegram.me/CodeXSupport) 24x7
 </details>
 
 
